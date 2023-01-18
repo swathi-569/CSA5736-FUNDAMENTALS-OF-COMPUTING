@@ -1,0 +1,17 @@
+1. General commands: Commands used in the terminal.
+
+2. System calls: Functions the kernel provides.
+
+3. Library functions: Functions in program libraries.
+
+4. Special files: Usually devices found in /dev and related drivers.
+
+5. File formats and conventions: File formats like etc/passwd.
+
+6. Games: Descriptions of commands that display database quotes.
+
+7. Miscellaneous: Various descriptions, including macro packages and conventions, boot parameters, and others.
+
+8. System administration commands: Commands mostly reserved for root.
+
+9. Kernel Routines: Information about internal kernel operations.
