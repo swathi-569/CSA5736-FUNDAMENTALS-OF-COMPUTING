@@ -1,0 +1,19 @@
+awk
+chmod
+compress, uncompress
+date
+diff
+grep
+gzip, gunzip, zcat
+head, tail
+lpr, lpq, lprm
+ls
+man
+pquota
+ps
+pwd
+quota
+sed
+sort
+tar
+wc
