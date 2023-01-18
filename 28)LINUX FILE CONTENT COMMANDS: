@@ -1,0 +1,22 @@
+1. Cat
+This is the simplest and perhaps the most popular command to view a file in Linux.
+
+2. nl
+The nl command is almost like the cat command. The only difference is that it prepends line numbers while displaying the text in the terminal.
+
+3. Less
+Less command views the file one page at a time. The best thing is that you exit less (by pressing q), there are no lines displayed on the screen.
+Your terminal remains clean and pristine.
+
+4. Head
+Head command is another way of viewing text file but with a slight difference. The head command displays the first 10 lines of a text file by default.
+
+5. Tail
+Tail command in Linux is similar and yet opposite to the head command. While head command displays file from the beginning, the tail command displays file from the end.
+By default, tail command displays the last 10 lines of a file.
+
+Bonus: Strings command::
+Okay! I promised to show only the commands for viewing text files. And this one deals with both text and binary files.
+The Strings command displays the readable text from a binary file.
+No, it doesn’t convert binary files into text files. If the binary file consists of actual readable text, the strings command displays those text on your screen.
+You can use the file command to find the type of a file in Linux.
