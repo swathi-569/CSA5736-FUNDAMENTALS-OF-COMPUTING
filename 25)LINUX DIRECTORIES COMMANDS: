@@ -1,0 +1,19 @@
+ls - This command 'lists' the contents of your present working directory.
+pwd - Shows you what your present working directory is.
+cd - Lets you change directories.
+rm - Remove one or more files.
+rmdir - Remove an empty directory.
+mkdir - Make a directory.
+ps - Provides a list of currently running processes.
+cp - Copy a file.
+mv - Move a file (this is also used to rename a file, "moving" it from one file name to another.)
+grep - The global regular expression print program lets you search through a file or output of another program.
+find - Find a file on the filesystem (100% accurate, but not fast).
+locate - Find a file on the filesystem from a cached list of files (Fast, but not 100% accurate).
+man - Displays the manual for most commands (including 'man').
+clear - clear the screen
+less - view the contents of a file
+nano - a simple text editor
+sudo - execute a command as another user (default as root)
+su - switch user (default to root)
+view - Start in read-only mode. You will be protected from writing the files. Can also be done with the "-R" argument.
