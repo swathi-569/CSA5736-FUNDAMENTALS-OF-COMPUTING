@@ -1,0 +1,3 @@
+standard input (stdin) : The stdin stream is numbered as stdin (0). The bash shell takes input from stdin. By default, keyboard is used as input.
+standard output (stdout) : The stdout stream is numbered as stdout (1). The bash shell sends output to stdout. Output goes to display.
+standard error (stderr) : The stderr stream is numbered as stderr (2). The bash shell sends error message to stderr. Error message goes to display.
