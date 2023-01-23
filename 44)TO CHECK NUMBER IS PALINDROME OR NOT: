@@ -1,7 +1,4 @@
 #! /bin/bash
-#Website : cs.sounak.in
-# Author: Sounak Pal
-## Script to check a number palindrome or not
 echo &quot;Enter a Number&quot;
 read n
 temp=$n
